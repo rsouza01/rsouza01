@@ -9,3 +9,5 @@ My name is Rodrigo, a brazilian expat living in the Netherlands. I have been a h
 
 ### 📫 Reach me at 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rsouza01/)
+
+![Rodrigo's github stats](https://github-readme-stats.vercel.app/api?username=rsouza01&hide=["issues"]&show_icons=true)
