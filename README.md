@@ -1,5 +1,6 @@
 ## Hi, I'm Rodrigo de Souza, a Developer 🚀 from Brazil living in the Netherlands.
 
+[![Generic badge](https://img.shields.io/badge/website-<STATUS>-<COLOR>.svg)](http://www.rodrigosouza.net.br/)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/rsouza01)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rsouza01/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rsouza01@gmail.com)
