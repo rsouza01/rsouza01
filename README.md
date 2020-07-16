@@ -6,7 +6,7 @@
 <br />
 <br />
 
-  <!-- img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rsouza01/.github/master/.resources/git-header.svg" /-->
+  <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rsouza01/rsouza01/master/git-header.svg" />
   
 **Talking about Personal Stuff:**
 
